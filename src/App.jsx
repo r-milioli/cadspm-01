@@ -17,6 +17,9 @@ function App() {
           <p>Lorem ipsum dolor sit, amet <strong> adipisicing elit.</strong> Minus quasi 
           illo sapiente vero voluptatibus nulla a amet sit distinctio 
           itaque, veritatis quibusdam. Officiis error delectus dicta non totam, odio molestias.</p>
+          <p>Lorem ipsum dolor sit, amet <strong> adipisicing elit.</strong> Minus quasi 
+          illo sapiente vero voluptatibus nulla a amet sit distinctio 
+          itaque, veritatis quibusdam. Officiis error delectus dicta non totam, odio molestias.</p>
           <h3>Habilidades Principais</h3>
           <ul>
             <li>Montagem e configuraçãoes de Pcs</li>
